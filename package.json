@@ -1,4 +1,5 @@
 {
+  "homepage": "https://elcinp.github.io/React-Tour-Project",
   "name": "tour-places",
   "version": "0.1.0",
   "private": true,
@@ -37,10 +38,10 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://elcinp.github.io/React-Tour-Project.git"
+    ]
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
   }
+  
 }
